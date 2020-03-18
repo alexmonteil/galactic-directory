@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.77d85556.chunk.css",
-    "main.js": "/static/js/main.5cdef5ba.chunk.js",
-    "main.js.map": "/static/js/main.5cdef5ba.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8a84a543.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8a84a543.js.map",
-    "static/css/2.3b6f1bda.chunk.css": "/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.d227d45a.chunk.js": "/static/js/2.d227d45a.chunk.js",
-    "static/js/2.d227d45a.chunk.js.map": "/static/js/2.d227d45a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b3f948bd0f7c7522c5defaa7c66e6c69.js": "/precache-manifest.b3f948bd0f7c7522c5defaa7c66e6c69.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.3b6f1bda.chunk.css.map": "/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.77d85556.chunk.css.map": "/static/css/main.77d85556.chunk.css.map",
-    "static/js/2.d227d45a.chunk.js.LICENSE.txt": "/static/js/2.d227d45a.chunk.js.LICENSE.txt"
+    "main.css": "/galactic-directory/static/css/main.77d85556.chunk.css",
+    "main.js": "/galactic-directory/static/js/main.a7bcf5ab.chunk.js",
+    "main.js.map": "/galactic-directory/static/js/main.a7bcf5ab.chunk.js.map",
+    "runtime-main.js": "/galactic-directory/static/js/runtime-main.ad20709e.js",
+    "runtime-main.js.map": "/galactic-directory/static/js/runtime-main.ad20709e.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/galactic-directory/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.d227d45a.chunk.js": "/galactic-directory/static/js/2.d227d45a.chunk.js",
+    "static/js/2.d227d45a.chunk.js.map": "/galactic-directory/static/js/2.d227d45a.chunk.js.map",
+    "index.html": "/galactic-directory/index.html",
+    "precache-manifest.cb868eb2841d06e9db55631e62903b43.js": "/galactic-directory/precache-manifest.cb868eb2841d06e9db55631e62903b43.js",
+    "service-worker.js": "/galactic-directory/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/galactic-directory/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.77d85556.chunk.css.map": "/galactic-directory/static/css/main.77d85556.chunk.css.map",
+    "static/js/2.d227d45a.chunk.js.LICENSE.txt": "/galactic-directory/static/js/2.d227d45a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a84a543.js",
+    "static/js/runtime-main.ad20709e.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.d227d45a.chunk.js",
     "static/css/main.77d85556.chunk.css",
-    "static/js/main.5cdef5ba.chunk.js"
+    "static/js/main.a7bcf5ab.chunk.js"
   ]
 }
