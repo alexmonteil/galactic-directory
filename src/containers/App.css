@@ -1,0 +1,9 @@
+/* Logo Font */
+@import url('https://fonts.googleapis.com/css?family=Faster+One&display=swap');
+
+.tc > h1 {
+    font-size: 4rem;
+    font-family: 'Faster One', cursive;
+    font-weight: 300;
+    color: #6da3ff;
+}
